@@ -1,0 +1,15 @@
+.fetbackContainer{
+        display: flex;
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+}
+button{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+        font-weight: bold;
+}
